@@ -1,2 +1,2 @@
-# angular-1
+# angular
 Test Angular
